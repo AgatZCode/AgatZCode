@@ -29,6 +29,32 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgatZCode&layout=compact" height=180 />
 </p>
 
+<div align="center">
+  <picture>
+      <source
+    media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
+      />
+    <img
+      alt="Snake"
+      src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
+      />
+  </picture>
+
+</div>
+
+___
+
+<div align="center">
+  
+  ![](https://count.getloli.com/get/@xct007?theme=rule34)
+  
+</div>
+
 ### Let's connect!
 <p>
     <a href="https://AgatZCode" target="blank"><img src="https://img.shields.io/badge/Website-https://s.id/AgatZPortfolio-green?" /></a>
