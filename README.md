@@ -29,6 +29,11 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgatZCode&layout=compact" height=180 />
 </p>
 
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/yuzuhoshinova/count.svg" />
+</p>
+
 <div align="center">
   <picture>
       <source
